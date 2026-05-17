@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*~
+
+# Personal study notes (keep local if you prefer)
+docs/MY-DAILY-LOG.md
+docs/MY-STAR-STORIES.md
+docs/MY-MISSED-QUESTIONS.md
